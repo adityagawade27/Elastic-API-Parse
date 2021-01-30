@@ -1,0 +1,7 @@
+Flask 
+wheel
+requests 
+pandas
+numpy
+configparser
+urllib3
